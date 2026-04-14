@@ -1,0 +1,56 @@
+*{ box-sizing: border-box;
+margin: 0%;
+}
+
+body{ background-image: url(bridge.jpeg);
+background-repeat: no-repeat ;
+height: 100vh;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+margin: auto;
+
+}
+
+.h1{ background-color: black;
+color: rgb(221, 221, 238);
+height: 300px ;
+width: 700px ;
+text-align: center;
+padding: 30px;
+background-position: center;
+margin: auto;
+background: transparent 9PX;
+margin-bottom: 0px;
+font-family: 'Times New Roman', Times, serif;
+background-color: rgba(17, 16, 16, 0.7);
+font-size: 30px;
+text-transform: capitalize;
+box-shadow: 9px -8px 9px whitesmoke;
+
+}
+
+.p1{
+color: aliceblue;
+height: 320px ;
+width:700px ;
+text-align: justify;
+padding: 30px;
+background-position: center;
+margin: auto;
+text-transform: capitalize;
+line-height: 50px;
+margin-bottom: 40px;
+background-color: rgba(17, 16, 16, 0.7);
+font-family: 'Times New Roman', Times, serif;
+box-shadow: 6px 6px 6px whitesmoke;
+
+
+}
+
+span{
+    font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+text-align: justify;
+
+}
