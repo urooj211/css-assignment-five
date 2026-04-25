@@ -1,20 +1,24 @@
 *{ box-sizing: border-box;
 margin: 0%;
+background-attachment: fixed;
+overflow-y: hidden
 }
 
-body{ background-image: url(bridge.jpeg);
+img { ;
 background-repeat: no-repeat ;
+width: 1350px;
 height: 100vh;
 background-position: center;
 background-size: cover;
 background-attachment: fixed;
 margin: auto;
+overflow: hidden;
 
 }
 
 .h1{ background-color: black;
 color: rgb(221, 221, 238);
-height: 300px ;
+height: 570px ;
 width: 700px ;
 text-align: center;
 padding: 30px;
@@ -26,31 +30,14 @@ font-family: 'Times New Roman', Times, serif;
 background-color: rgba(17, 16, 16, 0.7);
 font-size: 30px;
 text-transform: capitalize;
-box-shadow: 9px -8px 9px whitesmoke;
-
+box-shadow: -9px -8px 9px rgb(209, 181, 181);
+position: relative;
+bottom:600px ;
+overflow: scroll;
+text-align: justify;
 }
 
-.p1{
-color: aliceblue;
-height: 320px ;
-width:700px ;
-text-align: justify;
-padding: 30px;
-background-position: center;
-margin: auto;
-text-transform: capitalize;
-line-height: 50px;
-margin-bottom: 40px;
-background-color: rgba(17, 16, 16, 0.7);
-font-family: 'Times New Roman', Times, serif;
-box-shadow: 6px 6px 6px whitesmoke;
-
-
-}
-
-span{
-    font-family: 'Times New Roman', Times, serif;
-font-size: 20px;
-text-align: justify;
+h2{
+text-shadow: 9px 9px 20px rgb(238, 238, 32);
 
 }
